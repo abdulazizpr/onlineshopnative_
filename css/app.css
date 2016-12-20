@@ -1,0 +1,42 @@
+/*                     ___            __  _                     __        __   
+  ____ _____  ____  / (_)________ _/ /_(_)___  ____     _____/ /___  __/ /__ 
+ / __ `/ __ \/ __ \/ / / ___/ __ `/ __/ / __ \/ __ \   / ___/ __/ / / / / _ \
+/ /_/ / /_/ / /_/ / / / /__/ /_/ / /_/ / /_/ / / / /  (__  ) /_/ /_/ / /  __/
+\__,_/ .___/ .___/_/_/\___/\__,_/\__/_/\____/_/ /_/  /____/\__/\__, /_/\___/ 
+    /_/   /_/                                                 /____/         
+by: gilang.aramadan@gmail.com;
+*/
+
+header {
+  background: black;
+  padding-top: 30px;
+  padding-bottom: 24px;
+  color : white;
+}
+
+header a{
+	color: white;
+}
+
+.navbar.navbar-inverse {
+  border-radius: 0px;
+  -webkit-border-radius: 0px;
+}
+
+.wrapper {
+  min-height: 600px;
+}
+
+footer {
+  background: #2d2d2d;
+  margin-top: 45%;
+  padding: 5px 0 5px 0;
+}
+
+footer p {
+  text-align: center;
+  margin-top: 8px;
+  font-size: 12px;
+  color: #999;
+  line-height: 20px;
+}
